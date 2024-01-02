@@ -27,6 +27,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 
 ### AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction with Canonical Score Distillation
 **Authors**: Xinzhou Wang, Yikai Wang, Junliang Ye, Zhengyi Wang, Fuchun Sun, Pengkun Liu, Ling Wang, Kai Sun, Xintong Wang, Bin He
+
  [📄 Paper](https://arxiv.org/abs/2312.03795) |  [🌐 Project Page](https://animatabledreamer.github.io/)
 
 
