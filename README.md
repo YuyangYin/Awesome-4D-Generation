@@ -14,7 +14,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 
 **Authors**: Jiawei Ren, Liang Pan, Jiaxiang Tang1, Chi Zhang, Ang Cao, Gang Zeng, Ziwei Liu1
 
-[📄 Paper ](https://arxiv.org/pdf/2312.17142.pdf)|[🌐 Project Page](https://jiawei-ren.github.io/projects/dreamgaussian4d/)| [💻 Code](https://github.com/jiawei-ren/dreamgaussian4d)
+[📄 Paper ](https://arxiv.org/pdf/2312.17142.pdf) | [🌐 Project Page](https://jiawei-ren.github.io/projects/dreamgaussian4d/) | [💻 Code](https://github.com/jiawei-ren/dreamgaussian4d)
 
 
 
@@ -30,7 +30,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 
 **Authors**: Sherwin Bahmani, Ivan Skorokhodov, Victor Rong, Gordon Wetzstein, Leonidas Guibas, Peter Wonka, Sergey Tulyakov, Jeong Joon Park, Andrea Tagliasacchi, David B. Lindell
 
-[📄 Paper](https://arxiv.org/abs/2311.17984)|[🌐 Project Page](https://sherwinbahmani.github.io/4dfy/)|[💻 Code](https://github.com/sherwinbahmani/4dfy)
+[📄 Paper](https://arxiv.org/abs/2311.17984) | [🌐 Project Page](https://sherwinbahmani.github.io/4dfy/) | [💻 Code](https://github.com/sherwinbahmani/4dfy)
 
 
 
@@ -47,7 +47,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 
 **Authors**:Yanqin Jiang, Li Zhang, Jin Gao, Weimin Hu, Yao Yao
 
-[📄 Paper](https://arxiv.org/abs/2311.02848)|[🌐 Project Page](https://consistent4d.github.io/)|[💻 Code](https://github.com/yanqinJiang/Consistent4D)
+[📄 Paper](https://arxiv.org/abs/2311.02848) | [🌐 Project Page ](https://consistent4d.github.io/) | [💻 Code](https://github.com/yanqinJiang/Consistent4D)
 
 
 
@@ -55,7 +55,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 
 **Authors**: Yuyang Zhao, Zhiwen Yan, Enze Xie, Lanqing Hong, Zhenguo Li, Gim Hee Lee
 
-[📄 Paper](https://arxiv.org/abs/2311.14603)|[🌐 Project Page](https://animate124.github.io/)|[💻 Code](https://github.com/HeliosZhao/Animate124)| [🎥 Short Presentation](https://www.youtube.com/watch?v=L_1HCBhz9MM&ab_channel=YuyangZhao)
+[📄 Paper](https://arxiv.org/abs/2311.14603) | [🌐 Project Page](https://animate124.github.io/) | [💻 Code](https://github.com/HeliosZhao/Animate124)| [🎥 Short Presentation](https://www.youtube.com/watch?v=L_1HCBhz9MM&ab_channel=YuyangZhao)
 
 
 
