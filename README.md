@@ -22,7 +22,12 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 
 **Authors**: Andreas Blattmann, Robin Rombach, Huan Ling, Tim Dockhorn, Seung Wook Kim, Sanja Fidler, Karsten Kreis
 
- [📄 Paper](https://arxiv.org/pdf/2304.08818.pdf) | [🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/)
+ [📄 Paper](https://arxiv.org/abs/2312.13763) | [🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/)
+
+
+### AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction with Canonical Score Distillation
+**Authors**: Xinzhou Wang, Yikai Wang, Junliang Ye, Zhengyi Wang, Fuchun Sun, Pengkun Liu, Ling Wang, Kai Sun, Xintong Wang, Bin He
+ [📄 Paper](https://arxiv.org/abs/2312.03795) |  [🌐 Project Page](https://animatabledreamer.github.io/)
 
 
 
