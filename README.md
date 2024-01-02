@@ -2,7 +2,7 @@
 
 An organized list of academic papers focused on the topic of 4D Generation. If you have any additions or suggestions, feel free to contribute.
 
-### 4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency(2023.12)
+### 4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency (2023.12)
 
 **Authors**: Yuyang Yin, Dejia Xu, Zhangyang Wang, Yao Zhao, Yunchao Wei
 
@@ -10,7 +10,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 
 
 
-### DreamGaussian4D: Generative 4D Gaussian Splatting(2023.12)
+### DreamGaussian4D: Generative 4D Gaussian Splatting (2023.12)
 
 **Authors**: Jiawei Ren, Liang Pan, Jiaxiang Tang1, Chi Zhang, Ang Cao, Gang Zeng, Ziwei Liu1
 
@@ -25,14 +25,14 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
  [📄 Paper](https://arxiv.org/abs/2312.13763) | [🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/)
 
 
-### AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction with Canonical Score Distillation
+### AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction with Canonical Score Distillation (2023.12)
 **Authors**: Xinzhou Wang, Yikai Wang, Junliang Ye, Zhengyi Wang, Fuchun Sun, Pengkun Liu, Ling Wang, Kai Sun, Xintong Wang, Bin He
 
  [📄 Paper](https://arxiv.org/abs/2312.03795) |  [🌐 Project Page](https://animatabledreamer.github.io/)
 
 
 
-### 4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling(2023.11)
+### 4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling (2023.11)
 
 **Authors**: Sherwin Bahmani, Ivan Skorokhodov, Victor Rong, Gordon Wetzstein, Leonidas Guibas, Peter Wonka, Sergey Tulyakov, Jeong Joon Park, Andrea Tagliasacchi, David B. Lindell
 
@@ -40,7 +40,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 
 
 
-### A Unified Approach for Text- and Image-guided 4D Scene Generation(2023.11)
+### A Unified Approach for Text- and Image-guided 4D Scene Generation (2023.11)
 
 **Authors**: Yufeng Zheng, Xueting Li, Koki Nagano, Sifei Liu, Karsten Kreis, Otmar Hilliges, Shalini De Mello
 
@@ -49,7 +49,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 
 
 
-### Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video(2023.11)
+### Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video (2023.11)
 
 **Authors**:Yanqin Jiang, Li Zhang, Jin Gao, Weimin Hu, Yao Yao
 
@@ -57,7 +57,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 
 
 
-### Animate124: Animating One Image to 4D Dynamic Scene(2023.11)
+### Animate124: Animating One Image to 4D Dynamic Scene (2023.11)
 
 **Authors**: Yuyang Zhao, Zhiwen Yan, Enze Xie, Lanqing Hong, Zhenguo Li, Gim Hee Lee
 
@@ -66,7 +66,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 
 
 
-### Text-To-4D Dynamic Scene Generation(2023.1)
+### Text-To-4D Dynamic Scene Generation (2023.1)
 
 **Authors**: Uriel Singer, Shelly Sheynin, Adam Polyak, Oron Ashual, Iurii Makarov, Filippos Kokkinos, Naman Goyal, Andrea Vedaldi, Devi Parikh, Justin Johnson, Yaniv Taigman
 
