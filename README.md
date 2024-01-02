@@ -46,6 +46,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 ### Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video(2023.11)
 
 **Authors**:Yanqin Jiang, Li Zhang, Jin Gao, Weimin Hu, Yao Yao
+
 [📄 Paper](https://arxiv.org/abs/2311.02848)|[🌐 Project Page](https://consistent4d.github.io/)|[💻 Code](https://github.com/yanqinJiang/Consistent4D)
 
 
@@ -53,6 +54,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 ### Animate124: Animating One Image to 4D Dynamic Scene(2023.11)
 
 **Authors**: Yuyang Zhao, Zhiwen Yan, Enze Xie, Lanqing Hong, Zhenguo Li, Gim Hee Lee
+
 [📄 Paper](https://arxiv.org/abs/2311.14603)|[🌐 Project Page](https://animate124.github.io/)|[💻 Code](https://github.com/HeliosZhao/Animate124)| [🎥 Short Presentation](https://www.youtube.com/watch?v=L_1HCBhz9MM&ab_channel=YuyangZhao)
 
 
@@ -62,7 +64,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 
 **Authors**: Uriel Singer, Shelly Sheynin, Adam Polyak, Oron Ashual, Iurii Makarov, Filippos Kokkinos, Naman Goyal, Andrea Vedaldi, Devi Parikh, Justin Johnson, Yaniv Taigman
 
-[📄 Paper](https://arxiv.org/abs/2301.11280)|[🌐 Project Page](https://make-a-video3d.github.io/)
+[📄 Paper](https://arxiv.org/abs/2301.11280) | [🌐 Project Page](https://make-a-video3d.github.io/)
 
 
 
