@@ -12,7 +12,7 @@ An organized list of academic papers focused on the topic of 4D Generation. If y
 
 ### DreamGaussian4D: Generative 4D Gaussian Splatting (2023.12)
 
-**Authors**: Jiawei Ren, Liang Pan, Jiaxiang Tang1, Chi Zhang, Ang Cao, Gang Zeng, Ziwei Liu1
+**Authors**: Jiawei Ren, Liang Pan, Jiaxiang Tang, Chi Zhang, Ang Cao, Gang Zeng, Ziwei Liu
 
 [📄 Paper ](https://arxiv.org/pdf/2312.17142.pdf) | [🌐 Project Page](https://jiawei-ren.github.io/projects/dreamgaussian4d/) | [💻 Code](https://github.com/jiawei-ren/dreamgaussian4d)
 
